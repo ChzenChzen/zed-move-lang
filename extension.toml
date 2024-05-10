@@ -1,0 +1,15 @@
+id = "move"
+name = "Move"
+version = "0.0.1"
+schema_version = 1
+authors = ["fedorovdanila@gmail.com"]
+description = "My cool extension"
+repository = "https://github.com/zed-industries/zed"
+
+# [language_servers.move]
+# name = "Move Language Server"
+# language = "Move"
+
+[grammars.move]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-move"
+commit = "b8ca25518749be10562455fd081a3dab30b93b8b"
