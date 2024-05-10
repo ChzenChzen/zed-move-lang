@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["fedorovdanila@gmail.com"]
 description = "My cool extension"
-repository = "https://github.com/zed-industries/zed"
+repository = "https://github.com/ChzenChzen/zed-move-lang"
 
 # [language_servers.move]
 # name = "Move Language Server"
